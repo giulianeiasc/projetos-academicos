@@ -1,2 +1,17 @@
-# projetos-academicos
-Repositório com projetos desenvolvidos ao longo da faculdade, incluindo trabalhos de algoritmos, estruturas de dados e outras disciplinas. Cada projeto está organizado em sua própria pasta, com código-fonte e instruções de compilação/execução!
+# Projetos Acadêmicos
+
+Repositório com os projetos desenvolvidos ao longo da faculdade.
+
+## Projetos
+
+| Projeto | Linguagem | Descrição |
+|---|---|---|
+| [calculadora-polinomios](./calculadora-polinomios) | C | Calculadora de polinômios: exibe, calcula valor numérico, soma e multiplica polinômios via menu interativo |
+
+## Como usar
+
+Cada pasta contém um projeto independente com seu próprio README explicando como compilar e executar.
+
+## Desenvolvido por...
+Giulia Néias Cavalheri
+
